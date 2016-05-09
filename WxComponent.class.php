@@ -1,7 +1,7 @@
 <?php
 /**
  * 微信开放平台PHP-SDK, 非官方API
- * author:chenchenjsyz@163.com
+ * author:jsyzchenchen@gmail.com
  * date:2015-05-25
  */
 class WxComponent
